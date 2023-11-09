@@ -1,0 +1,14 @@
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\bin\Debug\net6.0\ConditionApp.exe
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\bin\Debug\net6.0\ConditionApp.deps.json
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\bin\Debug\net6.0\ConditionApp.runtimeconfig.json
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\bin\Debug\net6.0\ConditionApp.dll
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\bin\Debug\net6.0\ConditionApp.pdb
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.AssemblyInfoInputs.cache
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.AssemblyInfo.cs
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.csproj.CoreCompileInputs.cache
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.dll
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\refint\ConditionApp.dll
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.pdb
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ConditionApp.genruntimeconfig.cache
+C:\Users\ICTLearner11\source\repos\ConditionApp\ConditionApp\obj\Debug\net6.0\ref\ConditionApp.dll
